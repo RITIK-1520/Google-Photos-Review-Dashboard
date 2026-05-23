@@ -1,0 +1,8 @@
+Jupyter Notebook
+Streamlit
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Wordcloud
+Collections
