@@ -21,7 +21,7 @@ sns.set_style("darkgrid")
 
 # load data
 
-df = pd.read_csv("clean.csv")
+df = pd.read_csv("data/clean.csv")
 
 
 # sidebar filter
