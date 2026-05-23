@@ -88,7 +88,9 @@ AI app review project/
 └── .gitignore
 ```
 
+## Live Dashboard
 
+https://app-photos-review-dashboard-5m5jipfht7wz9jjr6qkryg.streamlit.app/
 
 ## How to Run the Project
 
