@@ -1,4 +1,4 @@
-# Google Photos Review Intelligence Dashboard
+# Google Photos Review AI Intelligence Dashboard
 
 ## Project Overview
 
